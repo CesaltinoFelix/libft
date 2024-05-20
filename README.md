@@ -28,3 +28,24 @@ In order to use this static library in your project, you must download this repo
 $ git clone https://github.com/CesaltinoFelix/libft
 $ cd libft
 $ make
+```
+
+Example program (hello_42luanda.c):
+```c
+#include "libft.h"
+
+int main() {
+ft_putstr_fd("Hello, 42Luanda!", 1);
+return 0;
+}
+```
+Compilation command:
+```s
+$ gcc hello_42luanda.c -o hello_42luanda -L. -lft
+```
+Expected Output:
+```s
+$ ./hello_libft
+Hello world!
+Powered by Libft.
+$
