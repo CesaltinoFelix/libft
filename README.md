@@ -46,6 +46,5 @@ $ gcc hello_42luanda.c -o hello_42luanda -L. -lft
 Expected Output:
 ```s
 $ ./hello_libft
-Hello world!
-Powered by Libft.
+Hello 42Luanda!
 $
