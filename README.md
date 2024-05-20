@@ -3,7 +3,7 @@
 
 This is the entry project at École 42, in which students are challenged to recreate a set of functions from the classic standardized libC, and other supplementary functions. These functions will then be used throughout the school's curriculum instead of the standard ones. Students are also welcome to incorporate their own functions into their libft as needs arise during the course of the curriculum.
 
-The bonus part of this project comprises functions for the manipulation of singly linked lists.
+The bonus part of this project comprises functions for the manipulation of singly linked lists, that is not included here yet.
 
 This project is also the first contact we have with make and Makefile, and besides the source code for each function and a Makefile, another deliverable is the static library file `libft.a`.
 
